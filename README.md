@@ -10,5 +10,3 @@ O Pong Game para dois jogadores é uma recriação do icônico jogo de arcade Po
 
 Jogabilidade Clássica: Reviva a nostalgia do Pong com uma jogabilidade clássica e simples.
 Controles Intuitivos: Use W ou S, e Up ou Down nas setas para interagir com as raquetes.
-
-:)
